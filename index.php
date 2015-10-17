@@ -4,7 +4,7 @@
  * Plugin Name: Scrapinghub Last Job Downloader
  * Description: Downloads the last Job of Scrapionghub Spiders
  * Version: 1.0
- * Author: Sebastian Pachl
+ * Author: Pacman84
  * License: ---
  */
 if (! defined('ABSPATH')) exit;
